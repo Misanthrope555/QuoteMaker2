@@ -1,14 +1,14 @@
 # QUOTE APP
 
-### Author: Arnold Oduma
+### Author: Edwin Kaburu
 
 This is a program to enable a user to view quotes vote for their favorite quotes and also create new quotes. The highest voted quote will be highlighted
 
 ## Getting Started
 
-Install triangle tracker on your local machine bt cloning this repository:
+Install QuoteMaker2 on your local machine bt cloning this repository:
 
-[Github repo](https://github.com/ArnoldOduma/quotes.git) - https://github.com/ArnoldOduma/quotes.git
+[Github repo](https://github.com/Misanthrope555/QuoteMaker2) - https://github.com/Misanthrope555/QuoteMaker2
 
 ### Prerequisites
 
@@ -23,7 +23,7 @@ ng -version
 
 ## Installing
 
-Clone the repository to your local machine from the **[online repository](https://github.com/ArnoldOduma/quotes.git)**
+Clone the repository to your local machine from the **[online repository](https://github.com/Misanthrope555/QuoteMaker2)**
 
 If you already have git and angular installed in your machine continue to the next step,
 
@@ -79,7 +79,7 @@ You are set to go.
 
 ## Deployment
 
-Click [here](https://arnoldoduma.github.io/quotes/) to go to the live site.<br>
+Click [here](https://misanthrope555.github.io/QuoteMaker2/) to go to the live site.<br>
 
 ## Built With
 
@@ -97,14 +97,12 @@ If you want to put out a pull request you first have to send us the sample code 
 
 We use currently have only the first version of this application.
 
-## Authors
 
-- **Arnold Oduma** - _Initial work_ - [Portfolio](https://github.com/ArnoldOduma/portfolio)
 
 ## Contacts
 
-[Email](https://mail.google.com) - techspaceke@gmail.com <br>
-Phone - +254-716-832-927
+[Email](https://mail.google.com) - edkkaburu@gmail.com <br>
+Phone - +254(792131495)
 
 ## License
 
@@ -112,5 +110,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Arnold Oduma
-- etc
+- Edwin Kaburu
+
