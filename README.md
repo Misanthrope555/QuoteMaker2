@@ -77,9 +77,6 @@ You are set to go.
 | :--------------------------------------------------- | :------ | :-------------------------- |
 | Increment the votes                                  | votes clicked | votes++       |
 
-## Deployment
-
-Click [here](https://misanthrope555.github.io/QuoteMaker2/) to go to the live site.<br>
 
 ## Built With
 
